@@ -1,0 +1,641 @@
+{
+  "name": "Mindfulness Meditation Course",
+  "duration": {
+    "weeks": 8,
+    "totalDuration": "8 weeks"
+  },
+  "weeklyContent": [
+    {
+      "week": 1,
+      "description": "Mindfulness Basics",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Awareness of Breath",
+            "activities": [
+              {
+                "allowRecord": false,
+                "title": "10-Minute Guided",
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practise. All you have to do is to close your eyes and focus on the breath as it comes and goes."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_2efb5066c6354de69d5157f4bc38cf42.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Mindful Eating",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>The informal practice of Mindful eating is simply to bring greater cognizance and awareness to the process of eating. Like any meditation, the focus is simply to bring your entire attention to the food through your senses. For today, you may choose to eat atleast the 1st bite of each meal you consume Mindfully. If you feel engaged, you may choose to extend this activity to more bites. Once done, if you wish to, you can record your experience by clicking on the button below…</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Gratitude (10 positive points)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>While the mind finds it easy to “automatically” go into the negatives, bringing the mind to the positive is often a difficult task. This is why consciously trying to recall the positive in life is among a strong and time-tested practice which not just builds positivity but also enhances autonomy over the mind. Each day, we invite you to write 10 positive things that may have happened during the day. While this is an activity ideally done at the end of the day, if you so choose, you can do this activity in the morning for the previous day…</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "description": "Building Concentration",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Body Scan Meditation",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Body Scan",
+                    "audioUrl": "https://example.com/week2-body-scan.mp3"
+                  }
+                ]
+              },
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practise. All you have to do is to close your eyes and focus on the breath as it comes and goes."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://example.com/week1-meditation-10min.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Counting Breaths",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Count your breaths from 1 to 10, then start over. If you lose count, gently return to 1. This practice builds concentration and awareness.</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "15-Minute Guided Counting",
+                    "audioUrl": "https://example.com/week2-counting.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Mindful Walking",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Practice walking slowly and deliberately, feeling each step and the sensations in your feet and legs. This can be done anywhere, even for just a few minutes.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Concentration Challenges",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Record the challenges you face during concentration practices and what helps you maintain focus.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "description": "Working with Thoughts",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Thought Labeling",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Thought Labeling Practice",
+                    "audioUrl": "https://example.com/week3-thought-labeling.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "STOP Practice",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Stop, Take a breath, Observe, Proceed. Use this technique whenever you notice your mind wandering during the day.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Thought Patterns",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Record recurring thought patterns and their triggers throughout your day.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "description": "Heart Practices",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Loving-Kindness Meditation",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice develops compassion for yourself and others through specific phrases and intentions.</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Loving-Kindness",
+                    "audioUrl": "https://example.com/week4-loving-kindness.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Random Acts of Kindness",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Perform at least one conscious act of kindness each day, noting how it affects both you and others.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Self-Compassion Journal",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Write about moments when you showed yourself compassion or when you could have been kinder to yourself.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "description": "Mindful Movement",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Gentle Yoga Flow",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "30-Minute Mindful Movement",
+                    "audioUrl": "https://example.com/week5-yoga.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Walking Meditation",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "15-Minute Walking Meditation",
+                    "audioUrl": "https://example.com/week5-walking.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Body Awareness",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Set reminders to check in with your posture and body sensations throughout the day.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Movement Reflection",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Record how different types of movement affect your mental and emotional state.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "description": "Working with Difficult Emotions",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "RAIN Practice",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Recognize, Allow, Investigate, and Nurture - a powerful technique for working with challenging emotions.</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute RAIN Meditation",
+                    "audioUrl": "https://example.com/week6-rain.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Emotion Tracking",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Notice and label emotions as they arise throughout the day, without trying to change them.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Emotional Weather Report",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Write about your emotional climate, noting patterns and triggers.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 7,
+      "description": "Open Awareness",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Choiceless Awareness",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "30-Minute Open Awareness",
+                    "audioUrl": "https://example.com/week7-open-awareness.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sound Meditation",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Practice being aware of sounds as they arise and pass, without following or resisting them.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Panoramic Awareness",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Practice expanding your awareness to include all sensory experiences throughout the day.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Awareness Log",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Document moments of clear awareness and what conditions support them.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 8,
+      "description": "Integration and Moving Forward",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Self-Guided Practice",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Choose your own meditation length and style, building confidence in your independent practice.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Review Meditation",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "45-Minute Integration Practice",
+                    "audioUrl": "https://example.com/week8-integration.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Life Integration",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Create a personal plan for incorporating mindfulness into your daily routine.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Course Reflection",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>Reflect on your journey, noting key insights and creating a plan for continued practice.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "weeklyResources": [
+    {
+      "week": 1,
+      "description": "Mindfulness Basics",
+      "resources": [
+        {
+          "type": "article",
+          "title": "Understanding the Basics of Mindfulness",
+          "subtitle": "A beginner's guide to mindfulness practice",
+          "url": "https://example.com/articles/mindfulness-basics"
+        },
+        {
+          "type": "video",
+          "title": "Getting Started with Meditation",
+          "url": "https://example.com/videos/getting-started"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "description": "Building Concentration",
+      "resources": [
+        {
+          "type": "article",
+          "title": "The Science Behind Concentration",
+          "url": "https://example.com/articles/concentration-science"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "description": "Meditation Benefits",
+      "resources": [
+        {
+          "type": "video",
+          "title": "Understanding Your Brain on Meditation",
+          "subtitle": "The neuroscience of mindfulness",
+          "url": "https://example.com/videos/brain-meditation"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "description": "Loving-Kindness Practice",
+      "resources": [
+        {
+          "type": "article",
+          "title": "The History of Loving-Kindness Meditation",
+          "url": "https://example.com/articles/loving-kindness"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "description": "Mindful Movement",
+      "resources": [
+        {
+          "type": "video",
+          "title": "Mindful Movement Techniques",
+          "url": "https://example.com/videos/mindful-movement"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "description": "Overcoming Challenges",
+      "resources": [
+        {
+          "type": "article",
+          "title": "Common Meditation Challenges",
+          "subtitle": "Solutions to frequent meditation obstacles",
+          "url": "https://example.com/articles/meditation-challenges"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "description": "Daily Life",
+      "resources": [
+        {
+          "type": "video",
+          "title": "Mindfulness in Daily Life",
+          "url": "https://example.com/videos/daily-mindfulness"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "description": "Continuing Forward",
+      "resources": [
+        {
+          "type": "article",
+          "title": "Building a Sustainable Practice",
+          "url": "https://example.com/articles/sustainable-practice"
+        }
+      ]
+    }
+  ]
+}
+
