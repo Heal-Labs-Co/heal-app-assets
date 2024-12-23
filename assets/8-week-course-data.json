@@ -392,6 +392,7 @@
       "description": "Making Practices Your Own",
       "formalPractises": {
         "heading": "Choose Any This Week",
+        "firstFoldCollapsed": true,
         "practises": [
           {
             "title": "Awareness of Breath",
@@ -812,6 +813,7 @@
       "description": "Curating a Happy Life",
       "formalPractises": {
         "description": "The formal practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice you like from all the following that we’ve learnt through the course. You may also choose to do different practices on different days to experiment with your own sense of liking….",
+        "firstFoldCollapsed": true,
         "practises": [
           {
             "title": "Awareness of Breath",
