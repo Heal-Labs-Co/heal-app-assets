@@ -391,7 +391,7 @@
       "week": 5,
       "description": "Mindful Movement",
       "formalPractises": {
-        "title": "Choose Any This Week",
+        "heading": "Choose Any This Week",
         "practises": [
           {
             "title": "Awareness of Breath",
@@ -474,7 +474,7 @@
         ]
       },
       "informalPractises": {
-        "title": "Choose Any This Week",
+        "heading": "Choose Any This Week",
         "practises": [
           {
             "title": "Mindful Eating",
@@ -518,7 +518,7 @@
         ]
       },
       "journalingPractises": {
-        "title": "Choose Any This Week",
+        "heading": "Choose Any This Week",
         "practises": [
           {
             "title": "Reducing Multi-tasking",
