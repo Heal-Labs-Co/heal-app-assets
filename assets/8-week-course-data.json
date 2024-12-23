@@ -476,6 +476,7 @@
       },
       "informalPractises": {
         "heading": "Choose Any This Week",
+        "firstFoldCollapsed": true,
         "practises": [
           {
             "title": "Mindful Eating",
@@ -520,6 +521,7 @@
       },
       "journalingPractises": {
         "heading": "Choose Any This Week",
+        "firstFoldCollapsed": true,
         "practises": [
           {
             "title": "Reducing Multi-tasking",
@@ -950,6 +952,7 @@
         ]
       },
       "informalPractises": {
+        "firstFoldCollapsed": true,
         "description": "The informal practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice or practices you like….",
         "practises": [
           {
@@ -1033,6 +1036,7 @@
         ]
       },
       "journalingPractises": {
+        "firstFoldCollapsed": true,
         "description": "The journaling practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice or practices you like….",
         "practises": [
           {
