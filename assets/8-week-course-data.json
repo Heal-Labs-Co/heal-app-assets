@@ -14,17 +14,26 @@
             "title": "Awareness of Breath",
             "activities": [
               {
-                "allowRecord": false,
                 "title": "10-Minute Guided",
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "Awareness of breath is the most basic Mindfulness practise. All you have to do is to close your eyes and focus on the breath as it comes and goes."
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
-                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_2efb5066c6354de69d5157f4bc38cf42.mp3"
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
                   }
                 ]
               }
@@ -41,7 +50,631 @@
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>The informal practice of Mindful eating is simply to bring greater cognizance and awareness to the process of eating. Like any meditation, the focus is simply to bring your entire attention to the food through your senses. For today, you may choose to eat atleast the 1st bite of each meal you consume Mindfully. If you feel engaged, you may choose to extend this activity to more bites. Once done, if you wish to, you can record your experience by clicking on the button below…</p>"
+                    "content": "<p>The informal practice of Mindful eating is simply to bring greater cognizance and awareness to the process of eating. Like any meditation, the focus is simply to bring your entire attention to the food through your senses.\n\nFor this week, you may choose to eat atleast the 1st bite of each meal you consume Mindfully. If you feel engaged, you may choose to extend this activity to more bites.\n\nOnce done, if you wish to, you can record your experience by clicking on the link below.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Reducing Multi-tasking",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice is typically done during night time before sleeping. The aim is to look back at the day and recall moments where you indulged in rapid task-switching which you could’ve avoided. You can also, if you wish, note down how that may have affected your productivity.\n\nYou can record your experiences using the record button. If it helps at the end of your experience record you can write (or speak) a small statement of commitment promising yourself to minimize multi-tasking for the next days.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "description": "Building Concentration",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Body Scan",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.\n\nTry alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Awareness of Breath",
+            "activities": [
+              {
+                "title": "10-Minute Guided",
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Mindfulness in Everyday Life",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>There are several ways other than Mindful Eating in which we can practice Mindfulness in day-to-day living. As you go through your days this week (and in future), pick any one or two each day from the small list of activities given below (in addition to Mindful eating).</p>\n\n<ul>\n<li>Mindful Grooming</li>\n<li>Mindful Walking</li>\n<li>Mindful Listening</li>\n</ul>\n\n<p>More details about each of the above are available in this <a href='https://drive.google.com/file/d/1Gk8CcfSohPyTypk7r4x8C1ngXwUdDIoB/view'>short article</a>. This is just a very limited sample meant to facilitate the idea that a Mindfulness practice is available to us, whenever we want and wherever we are!</p>\n\n<p>You can record your experience of how your practices went for the day.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Observing Mind-Wandering",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice is to become aware of the contents of the wandering mind and to station ourselves back to the breath. For this practice, sit for 5 minutes being aware of the breath. At the end of 5 minutes note down the different thought you had / feelings that you experienced (as a result of the mind going out of control). You don’t have to accurately remember everything – just record whatever you can recall from the bygone 5 minutes.\n\nThe idea of the practice is to slowly help you discover different themes and buckets in which your mind automatically wanders to and subsequently identify the reasons of why that happens!\n\nIf you wish to, you can also jot down some of the themes that come for you below on each day:</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 3,
+      "description": "Working with Thoughts",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Mindful Movement (Yoga)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>While Body Scan and Sitting Meditation (Breath) are powerful practices for some practitioners they’re not the practice of choice. One of the biggest reasons is their “non-motionless” which makes it hard for many to keep focus after a few minutes. Fortunately, we’re practicing Mindfulness and not the “art of being seated for long hours”. One of the practices therefore is to be Mindful of our movement.\n\nFor this week try doing Mindful Movement practice atleast 3 times alternating it with the body scan or awareness of breath practices. You can either choose to do Mindful Yoga as discussed during our sessions or practice to this practice of <a href='https://www.youtube.com/watch?v=BzA6Hu840to'>Ten Mindful Movements</a>. Once done, you can record your experiences below</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Body Scan",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.\n\nTry alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Awareness of Breath",
+            "activities": [
+              {
+                "title": "10-Minute Guided",
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Mindfulness Space",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>For this week, whenever you are feeling in the grip of emotions (especially unpleasant), try to practice the \"3-STEP Mindfulness Space\" practice. While it may not be possible to do so during all events, try doing this whenever the situation allows for it (or after the situation is over when you are taking a short break). The 3 steps are as follows:</p>\n\n<p><strong>STEP 1: BRINGING AWARENESS</strong> to the body exploring the regions of the body experiencing tightness and gradually loosening them</p>\n\n<p><strong>STEP 2: TAKING CONSCIOUS SLOW & DEEPER BREATHS</strong> filling up the lungs to the extent possible and gradually releasing breath</p>\n\n<p><strong>STEP 3: INVITING A SMILE</strong> to come on the face as you practice deep breathing – staying with the smile till you feel settled.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Unproductive Thinking Patterns",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>As Mindfulness grows, one starts to recognize that even outside of formal practice our mind often wanders away into patterns of thinking that may be unproductive for the situation we are working with. This wandering can lead to loss of productivity, reduced capacity to handle situations or loss of control and greater reactivity.</p>\n\n<p>As you go through this week, at the end of each day, try to identify different unproductive thought patterns that may have emerged during the day in different situations.</p>\n\n<p>The aim is to look back at events during the day where you might automatically indulge in unhelpful thoughts. Awareness of this automaticity will be the first step to come out of it.</p>\n\n<p>You can record your experience here!</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 4,
+      "description": "Heart Practices",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Choiceless Awareness",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This week's formal practice expands from the realm of the outer world (body and the breath) to bringing our awareness to the inner world where we observe our thoughts & feelings by finding distance from them to be able to observe them non-judgmentally.</p>\n\n<p>It's a practice that can gradually help us change our relationship with thoughts by making them appear as choices one can mindfully pick from rather than compulsions one has to mindlessly react to. Do this practice atleast 2 times alternating it with any of the other practices given below.</p>\n\n<p>Once done you can record your experience below:</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_bbca0b1519c341d68b41f254b4607d99.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mindful Movement (Yoga)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>While Body Scan and Sitting Meditation (Breath) are powerful practices for some practitioners they’re not the practice of choice. One of the biggest reasons is their “non-motionless” which makes it hard for many to keep focus after a few minutes. Fortunately, we’re practicing Mindfulness and not the “art of being seated for long hours”. One of the practices therefore is to be Mindful of our movement.\n\nFor this week try doing Mindful Movement practice atleast 3 times alternating it with the body scan or awareness of breath practices. You can either choose to do Mindful Yoga as discussed during our sessions or practice to this practice of <a href='https://www.youtube.com/watch?v=BzA6Hu840to'>Ten Mindful Movements</a>. Once done, you can record your experiences below</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Body Scan",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.\n\nTry alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Awareness of Breath",
+            "activities": [
+              {
+                "title": "10-Minute Guided",
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Mindfulness Space",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>For this week, whenever you are feeling in the grip of emotions (especially unpleasant), try to practice the \"3-STEP Mindfulness Space\" practice. While it may not be possible to do so during all events, try doing this whenever the situation allows for it (or after the situation is over when you are taking a short break). The 3 steps are as follows:</p>\n\n<p><strong>STEP 1: BRINGING AWARENESS</strong> to the body exploring the regions of the body experiencing tightness and gradually loosening them</p>\n\n<p><strong>STEP 2: TAKING CONSCIOUS SLOW & DEEPER BREATHS</strong> filling up the lungs to the extent possible and gradually releasing breath</p>\n\n<p><strong>STEP 3: INVITING A SMILE</strong> to come on the face as you practice deep breathing – staying with the smile till you feel settled.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "practises": [
+          {
+            "title": "Cognitive Reappraisal (SORT)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice, typically done during the end of the day is to close our eyes, recall our thinking patterns from the day in moments when we were in the grip of emotions (e.g. Envy, Anger, Guilt etc.) and asking ourselves if there was a better way to live that moment. The moment doesn't have to be big – if you think deeply enough, you'll definitely find something from the day worth reconsidering.</p>\n\n<p>Once you close your eyes and have thought of the event, you can follow the following steps:</p>\n\n<p><strong>S:</strong> Stop and take a few mindful breaths</p>\n\n<p><strong>O:</strong> Observe the thoughts that are arising from the event</p>\n\n<p><strong>R:</strong> Release those thoughts by focusing back on the breath</p>\n\n<p><strong>T:</strong> Thinking again if there is a productive thought you could have indulged in for the same event</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 5,
+      "description": "Mindful Movement",
+      "formalPractises": {
+        "title": "Choose Any This Week",
+        "practises": [
+          {
+            "title": "Awareness of Breath",
+            "activities": [
+              {
+                "title": "10-Minute Guided",
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Body Scan",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.\n\nTry alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mindful Movement (Yoga)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>While Body Scan and Sitting Meditation (Breath) are powerful practices for some practitioners they’re not the practice of choice. One of the biggest reasons is their “non-motionless” which makes it hard for many to keep focus after a few minutes. Fortunately, we’re practicing Mindfulness and not the “art of being seated for long hours”. One of the practices therefore is to be Mindful of our movement.\n\nFor this week try doing Mindful Movement practice atleast 3 times alternating it with the body scan or awareness of breath practices. You can either choose to do Mindful Yoga as discussed during our sessions or practice to this practice of <a href='https://www.youtube.com/watch?v=BzA6Hu840to'>Ten Mindful Movements</a>. Once done, you can record your experiences below</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Choiceless Awareness",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This week's formal practice expands from the realm of the outer world (body and the breath) to bringing our awareness to the inner world where we observe our thoughts & feelings by finding distance from them to be able to observe them non-judgmentally.</p>\n\n<p>It's a practice that can gradually help us change our relationship with thoughts by making them appear as choices one can mindfully pick from rather than compulsions one has to mindlessly react to. Do this practice atleast 2 times alternating it with any of the other practices given below.</p>\n\n<p>Once done you can record your experience below:</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_bbca0b1519c341d68b41f254b4607d99.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "title": "Choose Any This Week",
+        "practises": [
+          {
+            "title": "Mindful Eating",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>The informal practice of Mindful eating is simply to bring greater cognizance and awareness to the process of eating. Like any meditation, the focus is simply to bring your entire attention to the food through your senses.\n\nFor this week, you may choose to eat atleast the 1st bite of each meal you consume Mindfully. If you feel engaged, you may choose to extend this activity to more bites.\n\nOnce done, if you wish to, you can record your experience by clicking on the link below.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mindfulness in Everyday Life",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>There are several ways other than Mindful Eating in which we can practice Mindfulness in day-to-day living. As you go through your days this week (and in future), pick any one or two each day from the small list of activities given below (in addition to Mindful eating).</p>\n\n<ul>\n<li>Mindful Grooming</li>\n<li>Mindful Walking</li>\n<li>Mindful Listening</li>\n</ul>\n\n<p>More details about each of the above are available in this <a href='https://drive.google.com/file/d/1Gk8CcfSohPyTypk7r4x8C1ngXwUdDIoB/view'>short article</a>. This is just a very limited sample meant to facilitate the idea that a Mindfulness practice is available to us, whenever we want and wherever we are!</p>\n\n<p>You can record your experience of how your practices went for the day.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mindfulness Space",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>For this week, whenever you are feeling in the grip of emotions (especially unpleasant), try to practice the \"3-STEP Mindfulness Space\" practice. While it may not be possible to do so during all events, try doing this whenever the situation allows for it (or after the situation is over when you are taking a short break). The 3 steps are as follows:</p>\n\n<p><strong>STEP 1: BRINGING AWARENESS</strong> to the body exploring the regions of the body experiencing tightness and gradually loosening them</p>\n\n<p><strong>STEP 2: TAKING CONSCIOUS SLOW & DEEPER BREATHS</strong> filling up the lungs to the extent possible and gradually releasing breath</p>\n\n<p><strong>STEP 3: INVITING A SMILE</strong> to come on the face as you practice deep breathing – staying with the smile till you feel settled.</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "journalingPractises": {
+        "title": "Choose Any This Week",
+        "practises": [
+          {
+            "title": "Reducing Multi-tasking",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice is typically done during night time before sleeping. The aim is to look back at the day and recall moments where you indulged in rapid task-switching which you could’ve avoided. You can also, if you wish, note down how that may have affected your productivity.\n\nYou can record your experiences using the record button. If it helps at the end of your experience record you can write (or speak) a small statement of commitment promising yourself to minimize multi-tasking for the next days.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Observing Self",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice is to become aware of the contents of the wandering mind and to station ourselves back to the breath. For this practice, sit for 5 minutes being aware of the breath. At the end of 5 minutes note down the different thought you had / feelings that you experienced (as a result of the mind going out of control). You don’t have to accurately remember everything – just record whatever you can recall from the bygone 5 minutes.\n\nThe idea of the practice is to slowly help you discover different themes and buckets in which your mind automatically wanders to and subsequently identify the reasons of why that happens!\n\nIf you wish to, you can also jot down some of the themes that come for you below on each day:</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Unproductive Thinking",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>As Mindfulness grows, one starts to recognize that even outside of formal practice our mind often wanders away into patterns of thinking that may be unproductive for the situation we are working with. This wandering can lead to loss of productivity, reduced capacity to handle situations or loss of control and greater reactivity.</p>\n\n<p>As you go through this week, at the end of each day, try to identify different unproductive thought patterns that may have emerged during the day in different situations.</p>\n\n<p>The aim is to look back at events during the day where you might automatically indulge in unhelpful thoughts. Awareness of this automaticity will be the first step to come out of it.</p>\n\n<p>You can record your experience here!</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Cognitive Reappraisal (SORT)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice, typically done during the end of the day is to close our eyes, recall our thinking patterns from the day in moments when we were in the grip of emotions (e.g. Envy, Anger, Guilt etc.) and asking ourselves if there was a better way to live that moment. The moment doesn't have to be big – if you think deeply enough, you'll definitely find something from the day worth reconsidering.</p>\n\n<p>Once you close your eyes and have thought of the event, you can follow the following steps:</p>\n\n<p><strong>S:</strong> Stop and take a few mindful breaths</p>\n\n<p><strong>O:</strong> Observe the thoughts that are arising from the event</p>\n\n<p><strong>R:</strong> Release those thoughts by focusing back on the breath</p>\n\n<p><strong>T:</strong> Thinking again if there is a productive thought you could have indulged in for the same event</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": 6,
+      "description": "Working with Difficult Emotions",
+      "formalPractises": {
+        "practises": [
+          {
+            "title": "Character Strengths",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>The main practices for this week are meditations on character strengths. Below is a list of meditations on some of the character strengths. Do try each of them atleast once, alternating them with the awareness of breath or body scan practices.</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "Perseverance",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_84f0b8df11384f56b7453e654a7a541f.mp3"
+                  }
+                ]
+              },
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "Spirituality",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_15cfe56eada049a29bde963a01e39ed5.mp3"
+                  }
+                ]
+              },
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "Love of Learning",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_6801e26003d646af8a901134a800066a.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Body Scan",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.\n\nTry alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Awareness of Breath",
+            "activities": [
+              {
+                "title": "10-Minute Guided",
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "informalPractises": {
+        "practises": [
+          {
+            "title": "Self-Regulation Reflection",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This is a visualization practice which is extremely effective in building self-regulation.</p>\n\n<p>At the end of each day as you close your eyes to fall asleep, look back at your day as though you are watching a movie. The only rule is that you do not indulge deep into the emotions or storyline of the individual events.</p>\n\n<p>As you do this each night, you'll notice that the mind is often tempted to deepen its indulgence with the pleasant or the unpleasant events. In those moments as we self-regulate to \"keep watching the movie\", we also become better at doing that in everyday life.</p>\n\n<p>In fact, the side benefits of this practice are also enhanced memory!</p>"
                   }
                 ]
               }
@@ -58,340 +691,7 @@
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>While the mind finds it easy to “automatically” go into the negatives, bringing the mind to the positive is often a difficult task. This is why consciously trying to recall the positive in life is among a strong and time-tested practice which not just builds positivity but also enhances autonomy over the mind. Each day, we invite you to write 10 positive things that may have happened during the day. While this is an activity ideally done at the end of the day, if you so choose, you can do this activity in the morning for the previous day…</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "week": 2,
-      "description": "Building Concentration",
-      "formalPractises": {
-        "practises": [
-          {
-            "title": "Body Scan Meditation",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "audio_template",
-                    "title": "20-Minute Body Scan",
-                    "audioUrl": "https://example.com/week2-body-scan.mp3"
-                  }
-                ]
-              },
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "Awareness of breath is the most basic Mindfulness practise. All you have to do is to close your eyes and focus on the breath as it comes and goes."
-                  },
-                  {
-                    "template": "audio_template",
-                    "title": "10-Minute Guided Meditation",
-                    "audioUrl": "https://example.com/week1-meditation-10min.mp3"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "title": "Counting Breaths",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Count your breaths from 1 to 10, then start over. If you lose count, gently return to 1. This practice builds concentration and awareness.</p>"
-                  },
-                  {
-                    "template": "audio_template",
-                    "title": "15-Minute Guided Counting",
-                    "audioUrl": "https://example.com/week2-counting.mp3"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "informalPractises": {
-        "practises": [
-          {
-            "title": "Mindful Walking",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Practice walking slowly and deliberately, feeling each step and the sensations in your feet and legs. This can be done anywhere, even for just a few minutes.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "journalingPractises": {
-        "practises": [
-          {
-            "title": "Concentration Challenges",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Record the challenges you face during concentration practices and what helps you maintain focus.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "week": 3,
-      "description": "Working with Thoughts",
-      "formalPractises": {
-        "practises": [
-          {
-            "title": "Thought Labeling",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "audio_template",
-                    "title": "25-Minute Thought Labeling Practice",
-                    "audioUrl": "https://example.com/week3-thought-labeling.mp3"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "informalPractises": {
-        "practises": [
-          {
-            "title": "STOP Practice",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Stop, Take a breath, Observe, Proceed. Use this technique whenever you notice your mind wandering during the day.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "journalingPractises": {
-        "practises": [
-          {
-            "title": "Thought Patterns",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Record recurring thought patterns and their triggers throughout your day.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "week": 4,
-      "description": "Heart Practices",
-      "formalPractises": {
-        "practises": [
-          {
-            "title": "Loving-Kindness Meditation",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>This practice develops compassion for yourself and others through specific phrases and intentions.</p>"
-                  },
-                  {
-                    "template": "audio_template",
-                    "title": "20-Minute Loving-Kindness",
-                    "audioUrl": "https://example.com/week4-loving-kindness.mp3"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "informalPractises": {
-        "practises": [
-          {
-            "title": "Random Acts of Kindness",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Perform at least one conscious act of kindness each day, noting how it affects both you and others.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "journalingPractises": {
-        "practises": [
-          {
-            "title": "Self-Compassion Journal",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Write about moments when you showed yourself compassion or when you could have been kinder to yourself.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "week": 5,
-      "description": "Mindful Movement",
-      "formalPractises": {
-        "practises": [
-          {
-            "title": "Gentle Yoga Flow",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "audio_template",
-                    "title": "30-Minute Mindful Movement",
-                    "audioUrl": "https://example.com/week5-yoga.mp3"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "title": "Walking Meditation",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "audio_template",
-                    "title": "15-Minute Walking Meditation",
-                    "audioUrl": "https://example.com/week5-walking.mp3"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "informalPractises": {
-        "practises": [
-          {
-            "title": "Body Awareness",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Set reminders to check in with your posture and body sensations throughout the day.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "journalingPractises": {
-        "practises": [
-          {
-            "title": "Movement Reflection",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Record how different types of movement affect your mental and emotional state.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "week": 6,
-      "description": "Working with Difficult Emotions",
-      "formalPractises": {
-        "practises": [
-          {
-            "title": "RAIN Practice",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Recognize, Allow, Investigate, and Nurture - a powerful technique for working with challenging emotions.</p>"
-                  },
-                  {
-                    "template": "audio_template",
-                    "title": "25-Minute RAIN Meditation",
-                    "audioUrl": "https://example.com/week6-rain.mp3"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "informalPractises": {
-        "practises": [
-          {
-            "title": "Emotion Tracking",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Notice and label emotions as they arise throughout the day, without trying to change them.</p>"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "journalingPractises": {
-        "practises": [
-          {
-            "title": "Emotional Weather Report",
-            "activities": [
-              {
-                "templates": [
-                  {
-                    "template": "text_template",
-                    "content": "<p>Write about your emotional climate, noting patterns and triggers.</p>"
+                    "content": "<p>While the mind finds it easy to \"automatically\" go into the negatives, bringing the mind to the positive is often a difficult task.</p>\n\n<p>This is why consciously trying to recall the positive in life is among a strong and time-tested practice which not just builds positivity but also enhances autonomy over the mind.</p>\n\n<p>Each day, we invite you to write 10 positive things that may have happened during the day. While this is an activity ideally done at the end of the day, if you so choose, you can do this activity in the morning for the previous day…</p>"
                   }
                 ]
               }
@@ -406,27 +706,65 @@
       "formalPractises": {
         "practises": [
           {
-            "title": "Choiceless Awareness",
+            "title": "Loving Kindness Meditation",
             "activities": [
               {
                 "templates": [
                   {
+                    "template": "text_template",
+                    "content": "<p>The formal practices for this week will be based on the character strengths of love and kindness.</p>\n\n<p>Loving-kindness is the wish that all beings (you and others) may be happy and good things may come their way. Loving-kindness is a way to increase compassion.</p>\n\n<p>The loving-kindness meditation is a form of single-focus meditation. Just as the breath is used as a focal point in the seated meditation, the sentences in the loving-kindness meditation are the focus of our attention. Each and every time our mind starts wandering, we take notice of this and gently return to the sentences. Please practice this in alteration to the body scan and AOB practice!</p>"
+                  },
+                  {
                     "template": "audio_template",
-                    "title": "30-Minute Open Awareness",
-                    "audioUrl": "https://example.com/week7-open-awareness.mp3"
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_afebbc559db746bca2fef24d0335129e.mp3"
                   }
                 ]
               }
             ]
           },
           {
-            "title": "Sound Meditation",
+            "title": "Body Scan",
             "activities": [
               {
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>Practice being aware of sounds as they arise and pass, without following or resisting them.</p>"
+                    "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.\n\nTry alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Awareness of Breath",
+            "activities": [
+              {
+                "title": "10-Minute Guided",
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
                   }
                 ]
               }
@@ -437,13 +775,13 @@
       "informalPractises": {
         "practises": [
           {
-            "title": "Panoramic Awareness",
+            "title": "Conscious Listening Practice",
             "activities": [
               {
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>Practice expanding your awareness to include all sensory experiences throughout the day.</p>"
+                    "content": "<p>During the coming week, try to pay attention to how you make conversation. Try as fully as possible to focus on the conversation and the person/persons you are together with.</p>\n\n<p>The moment you notice that your thoughts are distracted, return your attention to the conversation. Try to be as present as possible. Notice any insights that you develop in the process. Notice any judgments or biases you tend to automatically gravitate to while listening.</p>\n\n<p>If it helps, you can record any insights that come up in the link below.</p>"
                   }
                 ]
               }
@@ -454,13 +792,13 @@
       "journalingPractises": {
         "practises": [
           {
-            "title": "Awareness Log",
+            "title": "Character Strengths Practice",
             "activities": [
               {
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>Document moments of clear awareness and what conditions support them.</p>"
+                    "content": "<p>The journaling practice will be chosen by the participant for the character strength they wish to. Try to practice at least 5 days each week.</p>\n\n<p>While there are many ways that each character strength can be practiced, <a href='https://drive.google.com/file/d/1jU9hdfb2cRjV9hPAz_Gin18Mr3DYSYFx/view'>this link</a> provides a list of indicative ways that can be used to journal individual character strengths. You can record your experience through the link below. Apart from ways to journal, the link also provides several informal ways through which character strengths can be practiced.</p>"
                   }
                 ]
               }
@@ -473,29 +811,135 @@
       "week": 8,
       "description": "Integration and Moving Forward",
       "formalPractises": {
+        "description": "The formal practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice you like from all the following that we’ve learnt through the course. You may also choose to do different practices on different days to experiment with your own sense of liking….",
         "practises": [
           {
-            "title": "Self-Guided Practice",
+            "title": "Awareness of Breath",
             "activities": [
               {
+                "title": "10-Minute Guided",
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>Choose your own meditation length and style, building confidence in your independent practice.</p>"
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.\n\nWhile the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "10-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                  }
+                ]
+              },
+              {
+                "title": "20-Minute Guided",
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "20-Minute Guided Meditation",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
                   }
                 ]
               }
             ]
           },
           {
-            "title": "Review Meditation",
+            "title": "Body Scan",
             "activities": [
               {
                 "templates": [
                   {
+                    "template": "text_template",
+                    "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.\n\nTry alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
+                  },
+                  {
                     "template": "audio_template",
-                    "title": "45-Minute Integration Practice",
-                    "audioUrl": "https://example.com/week8-integration.mp3"
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mindful Movement (Yoga)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>While Body Scan and Sitting Meditation (Breath) are powerful practices for some practitioners they’re not the practice of choice. One of the biggest reasons is their “non-motionless” which makes it hard for many to keep focus after a few minutes. Fortunately, we’re practicing Mindfulness and not the “art of being seated for long hours”. One of the practices therefore is to be Mindful of our movement.\n\nFor this week try doing Mindful Movement practice atleast 3 times alternating it with the body scan or awareness of breath practices. You can either choose to do Mindful Yoga as discussed during our sessions or practice to this practice of <a href='https://www.youtube.com/watch?v=BzA6Hu840to'>Ten Mindful Movements</a>. Once done, you can record your experiences below</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Choiceless Awareness",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This week's formal practice expands from the realm of the outer world (body and the breath) to bringing our awareness to the inner world where we observe our thoughts & feelings by finding distance from them to be able to observe them non-judgmentally.</p>\n\n<p>It's a practice that can gradually help us change our relationship with thoughts by making them appear as choices one can mindfully pick from rather than compulsions one has to mindlessly react to. Do this practice atleast 2 times alternating it with any of the other practices given below.</p>\n\n<p>Once done you can record your experience below:</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_bbca0b1519c341d68b41f254b4607d99.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Character Strengths",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>The main practices for this week are meditations on character strengths. Below is a list of meditations on some of the character strengths. Do try each of them atleast once, alternating them with the awareness of breath or body scan practices.</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "Perseverance",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_84f0b8df11384f56b7453e654a7a541f.mp3"
+                  }
+                ]
+              },
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "Spirituality",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_15cfe56eada049a29bde963a01e39ed5.mp3"
+                  }
+                ]
+              },
+              {
+                "templates": [
+                  {
+                    "template": "audio_template",
+                    "title": "Love of Learning",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_6801e26003d646af8a901134a800066a.mp3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Loving Kindness Meditation",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>The formal practices for this week will be based on the character strengths of love and kindness.</p>\n\n<p>Loving-kindness is the wish that all beings (you and others) may be happy and good things may come their way. Loving-kindness is a way to increase compassion.</p>\n\n<p>The loving-kindness meditation is a form of single-focus meditation. Just as the breath is used as a focal point in the seated meditation, the sentences in the loving-kindness meditation are the focus of our attention. Each and every time our mind starts wandering, we take notice of this and gently return to the sentences. Please practice this in alteration to the body scan and AOB practice!</p>"
+                  },
+                  {
+                    "template": "audio_template",
+                    "title": "25-Minute Guided",
+                    "audioUrl": "https://static.wixstatic.com/mp3/fd404a_afebbc559db746bca2fef24d0335129e.mp3"
                   }
                 ]
               }
@@ -504,15 +948,81 @@
         ]
       },
       "informalPractises": {
+        "description": "The informal practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice or practices you like….",
         "practises": [
           {
-            "title": "Life Integration",
+            "title": "Mindful Eating",
             "activities": [
               {
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>Create a personal plan for incorporating mindfulness into your daily routine.</p>"
+                    "content": "<p>The informal practice of Mindful eating is simply to bring greater cognizance and awareness to the process of eating. Like any meditation, the focus is simply to bring your entire attention to the food through your senses.\n\nFor this week, you may choose to eat atleast the 1st bite of each meal you consume Mindfully. If you feel engaged, you may choose to extend this activity to more bites.\n\nOnce done, if you wish to, you can record your experience by clicking on the link below.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mindfulness in Everyday Life",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>There are several ways other than Mindful Eating in which we can practice Mindfulness in day-to-day living. As you go through your days this week (and in future), pick any one or two each day from the small list of activities given below (in addition to Mindful eating).</p>\n\n<ul>\n<li>Mindful Grooming</li>\n<li>Mindful Walking</li>\n<li>Mindful Listening</li>\n</ul>\n\n<p>More details about each of the above are available in this <a href='https://drive.google.com/file/d/1Gk8CcfSohPyTypk7r4x8C1ngXwUdDIoB/view'>short article</a>. This is just a very limited sample meant to facilitate the idea that a Mindfulness practice is available to us, whenever we want and wherever we are!</p>\n\n<p>You can record your experience of how your practices went for the day.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mindfulness Space",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>For this week, whenever you are feeling in the grip of emotions (especially unpleasant), try to practice the \"3-STEP Mindfulness Space\" practice. While it may not be possible to do so during all events, try doing this whenever the situation allows for it (or after the situation is over when you are taking a short break). The 3 steps are as follows:</p>\n\n<p><strong>STEP 1: BRINGING AWARENESS</strong> to the body exploring the regions of the body experiencing tightness and gradually loosening them</p>\n\n<p><strong>STEP 2: TAKING CONSCIOUS SLOW & DEEPER BREATHS</strong> filling up the lungs to the extent possible and gradually releasing breath</p>\n\n<p><strong>STEP 3: INVITING A SMILE</strong> to come on the face as you practice deep breathing – staying with the smile till you feel settled.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Self-Regulation Reflection",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This is a visualization practice which is extremely effective in building self-regulation.</p>\n\n<p>At the end of each day as you close your eyes to fall asleep, look back at your day as though you are watching a movie. The only rule is that you do not indulge deep into the emotions or storyline of the individual events.</p>\n\n<p>As you do this each night, you'll notice that the mind is often tempted to deepen its indulgence with the pleasant or the unpleasant events. In those moments as we self-regulate to \"keep watching the movie\", we also become better at doing that in everyday life.</p>\n\n<p>In fact, the side benefits of this practice are also enhanced memory!</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Conscious Listening Practice",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>During the coming week, try to pay attention to how you make conversation. Try as fully as possible to focus on the conversation and the person/persons you are together with.</p>\n\n<p>The moment you notice that your thoughts are distracted, return your attention to the conversation. Try to be as present as possible. Notice any insights that you develop in the process. Notice any judgments or biases you tend to automatically gravitate to while listening.</p>\n\n<p>If it helps, you can record any insights that come up in the link below.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Character Strengths Practice",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>The journaling practice will be chosen by the participant for the character strength they wish to. Try to practice at least 5 days each week.</p>\n\n<p>While there are many ways that each character strength can be practiced, <a href='https://drive.google.com/file/d/1jU9hdfb2cRjV9hPAz_Gin18Mr3DYSYFx/view'>this link</a> provides a list of indicative ways that can be used to journal individual character strengths. You can record your experience through the link below. Apart from ways to journal, the link also provides several informal ways through which character strengths can be practiced.</p>"
                   }
                 ]
               }
@@ -521,15 +1031,81 @@
         ]
       },
       "journalingPractises": {
+        "description": "The journaling practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice or practices you like….",
         "practises": [
           {
-            "title": "Course Reflection",
+            "title": "Reducing Multi-tasking",
             "activities": [
               {
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>Reflect on your journey, noting key insights and creating a plan for continued practice.</p>"
+                    "content": "<p>This practice is typically done during night time before sleeping. The aim is to look back at the day and recall moments where you indulged in rapid task-switching which you could’ve avoided. You can also, if you wish, note down how that may have affected your productivity.\n\nYou can record your experiences using the record button. If it helps at the end of your experience record you can write (or speak) a small statement of commitment promising yourself to minimize multi-tasking for the next days.</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Observing Mind-Wandering",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice is to become aware of the contents of the wandering mind and to station ourselves back to the breath. For this practice, sit for 5 minutes being aware of the breath. At the end of 5 minutes note down the different thought you had / feelings that you experienced (as a result of the mind going out of control). You don’t have to accurately remember everything – just record whatever you can recall from the bygone 5 minutes.\n\nThe idea of the practice is to slowly help you discover different themes and buckets in which your mind automatically wanders to and subsequently identify the reasons of why that happens!\n\nIf you wish to, you can also jot down some of the themes that come for you below on each day:</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Unproductive Thinking Patterns",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>As Mindfulness grows, one starts to recognize that even outside of formal practice our mind often wanders away into patterns of thinking that may be unproductive for the situation we are working with. This wandering can lead to loss of productivity, reduced capacity to handle situations or loss of control and greater reactivity.</p>\n\n<p>As you go through this week, at the end of each day, try to identify different unproductive thought patterns that may have emerged during the day in different situations.</p>\n\n<p>The aim is to look back at events during the day where you might automatically indulge in unhelpful thoughts. Awareness of this automaticity will be the first step to come out of it.</p>\n\n<p>You can record your experience here!</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Cognitive Reappraisal (SORT)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>This practice, typically done during the end of the day is to close our eyes, recall our thinking patterns from the day in moments when we were in the grip of emotions (e.g. Envy, Anger, Guilt etc.) and asking ourselves if there was a better way to live that moment. The moment doesn't have to be big – if you think deeply enough, you'll definitely find something from the day worth reconsidering.</p>\n\n<p>Once you close your eyes and have thought of the event, you can follow the following steps:</p>\n\n<p><strong>S:</strong> Stop and take a few mindful breaths</p>\n\n<p><strong>O:</strong> Observe the thoughts that are arising from the event</p>\n\n<p><strong>R:</strong> Release those thoughts by focusing back on the breath</p>\n\n<p><strong>T:</strong> Thinking again if there is a productive thought you could have indulged in for the same event</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Gratitude (10 positive points)",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>While the mind finds it easy to \"automatically\" go into the negatives, bringing the mind to the positive is often a difficult task.</p>\n\n<p>This is why consciously trying to recall the positive in life is among a strong and time-tested practice which not just builds positivity but also enhances autonomy over the mind.</p>\n\n<p>Each day, we invite you to write 10 positive things that may have happened during the day. While this is an activity ideally done at the end of the day, if you so choose, you can do this activity in the morning for the previous day…</p>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Character Strengths Practice",
+            "activities": [
+              {
+                "templates": [
+                  {
+                    "template": "text_template",
+                    "content": "<p>The journaling practice will be chosen by the participant for the character strength they wish to. Try to practice at least 5 days each week.</p>\n\n<p>While there are many ways that each character strength can be practiced, <a href='https://drive.google.com/file/d/1jU9hdfb2cRjV9hPAz_Gin18Mr3DYSYFx/view'>this link</a> provides a list of indicative ways that can be used to journal individual character strengths. You can record your experience through the link below. Apart from ways to journal, the link also provides several informal ways through which character strengths can be practiced.</p>"
                   }
                 ]
               }
@@ -638,4 +1214,3 @@
     }
   ]
 }
-
