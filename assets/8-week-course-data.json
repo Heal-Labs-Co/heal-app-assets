@@ -11,6 +11,7 @@
       "formalPractises": {
         "practises": [
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -21,6 +22,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -31,6 +33,7 @@
                 "title": "Awareness of Breath (20 Min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -44,6 +47,7 @@
       "informalPractises": {
         "practises": [
           {
+            "id": "practise/mindful_eating",
             "title": "Mindful Eating",
             "activities": [
               {
@@ -62,6 +66,7 @@
       "journalingPractises": {
         "practises": [
           {
+            "id": "practise/reducing_multitasking",
             "title": "Reducing Multi-tasking",
             "activities": [
               {
@@ -84,6 +89,7 @@
       "formalPractises": {
         "practises": [
           {
+            "id": "practise/body_scan",
             "title": "Body Scan",
             "activities": [
               {
@@ -94,6 +100,7 @@
                     "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.<br><br>Try alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/bs_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
@@ -103,6 +110,7 @@
             ]
           },
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -113,6 +121,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -123,6 +132,7 @@
                 "title": "Awareness of Breath (20 min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -136,6 +146,7 @@
       "informalPractises": {
         "practises": [
           {
+            "id": "practise/mindfulness_everyday_life",
             "title": "Mindfulness in Everyday Life",
             "activities": [
               {
@@ -154,6 +165,7 @@
       "journalingPractises": {
         "practises": [
           {
+            "id": "practise/observing_self",
             "title": "Observing Mind-Wandering",
             "activities": [
               {
@@ -176,6 +188,7 @@
       "formalPractises": {
         "practises": [
           {
+            "id": "practise/mindful_movement",
             "title": "Mindful Movement (Yoga)",
             "activities": [
               {
@@ -190,6 +203,7 @@
             ]
           },
           {
+            "id": "practise/body_scan",
             "title": "Body Scan",
             "activities": [
               {
@@ -200,6 +214,7 @@
                     "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.<br><br>Try alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/bs_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
@@ -209,6 +224,7 @@
             ]
           },
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -219,6 +235,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -229,6 +246,7 @@
                 "title": "Awareness of Breath (20 min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -242,6 +260,7 @@
       "informalPractises": {
         "practises": [
           {
+            "id": "practise/mindfulness_space",
             "title": "Mindfulness Space",
             "activities": [
               {
@@ -260,6 +279,7 @@
       "journalingPractises": {
         "practises": [
           {
+            "id": "practise/unproductive_thinking",
             "title": "Unproductive Thinking Patterns",
             "activities": [
               {
@@ -282,6 +302,7 @@
       "formalPractises": {
         "practises": [
           {
+            "id": "practise/choiceless_awareness",
             "title": "Choiceless Awareness",
             "activities": [
               {
@@ -292,6 +313,7 @@
                     "content": "<p>This week's formal practice expands from the realm of the outer world (body and the breath) to bringing our awareness to the inner world where we observe our thoughts & feelings by finding distance from them to be able to observe them non-judgmentally.</p><br><br><p>It's a practice that can gradually help us change our relationship with thoughts by making them appear as choices one can mindfully pick from rather than compulsions one has to mindlessly react to. Do this practice atleast 2 times alternating it with any of the other practices given below.</p><br><br><p>Once done you can record your experience below:</p>"
                   },
                   {
+                    "id": "audio/choiceless_awareness_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_bbca0b1519c341d68b41f254b4607d99.mp3"
@@ -301,6 +323,7 @@
             ]
           },
           {
+            "id": "practise/mindful_movement",
             "title": "Mindful Movement (Yoga)",
             "activities": [
               {
@@ -315,6 +338,7 @@
             ]
           },
           {
+            "id": "practise/body_scan",
             "title": "Body Scan",
             "activities": [
               {
@@ -325,6 +349,7 @@
                     "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.<br><br>Try alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/bs_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
@@ -334,6 +359,7 @@
             ]
           },
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -344,6 +370,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -354,6 +381,7 @@
                 "title": "Awareness of Breath (20 min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -367,6 +395,7 @@
       "informalPractises": {
         "practises": [
           {
+            "id": "practise/mindfulness_space",
             "title": "Mindfulness Space",
             "activities": [
               {
@@ -385,6 +414,7 @@
       "journalingPractises": {
         "practises": [
           {
+            "id": "practise/cognitive_reappraisal",
             "title": "Cognitive Reappraisal (SORT)",
             "activities": [
               {
@@ -409,6 +439,7 @@
         "firstFoldCollapsed": true,
         "practises": [
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -419,6 +450,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -429,6 +461,7 @@
                 "title": "Awareness of Breath (20 min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -438,6 +471,7 @@
             ]
           },
           {
+            "id": "practise/body_scan",
             "title": "Body Scan",
             "activities": [
               {
@@ -448,6 +482,7 @@
                     "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.<br><br>Try alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/bs_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
@@ -457,6 +492,7 @@
             ]
           },
           {
+            "id": "practise/mindful_movement",
             "title": "Mindful Movement (Yoga)",
             "activities": [
               {
@@ -471,6 +507,7 @@
             ]
           },
           {
+            "id": "practise/choiceless_awareness",
             "title": "Choiceless Awareness",
             "activities": [
               {
@@ -481,6 +518,7 @@
                     "content": "<p>This week's formal practice expands from the realm of the outer world (body and the breath) to bringing our awareness to the inner world where we observe our thoughts & feelings by finding distance from them to be able to observe them non-judgmentally.</p><br><br><p>It's a practice that can gradually help us change our relationship with thoughts by making them appear as choices one can mindfully pick from rather than compulsions one has to mindlessly react to. Do this practice atleast 2 times alternating it with any of the other practices given below.</p><br><br><p>Once done you can record your experience below:</p>"
                   },
                   {
+                    "id": "audio/choiceless_awareness_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_bbca0b1519c341d68b41f254b4607d99.mp3"
@@ -496,6 +534,7 @@
         "firstFoldCollapsed": true,
         "practises": [
           {
+            "id": "practise/mindful_eating",
             "title": "Mindful Eating",
             "activities": [
               {
@@ -510,6 +549,7 @@
             ]
           },
           {
+            "id": "practise/mindfulness_everyday_life",
             "title": "Mindfulness in Everyday Life",
             "activities": [
               {
@@ -524,6 +564,7 @@
             ]
           },
           {
+            "id": "practise/mindfulness_space",
             "title": "Mindfulness Space",
             "activities": [
               {
@@ -544,6 +585,7 @@
         "firstFoldCollapsed": true,
         "practises": [
           {
+            "id": "practise/reducing_multitasking",
             "title": "Reducing Multi-tasking",
             "activities": [
               {
@@ -558,6 +600,7 @@
             ]
           },
           {
+            "id": "practise/observing_self",
             "title": "Observing Self",
             "activities": [
               {
@@ -572,6 +615,7 @@
             ]
           },
           {
+            "id": "practise/unproductive_thinking",
             "title": "Unproductive Thinking",
             "activities": [
               {
@@ -586,6 +630,7 @@
             ]
           },
           {
+            "id": "practise/cognitive_reappraisal",
             "title": "Cognitive Reappraisal (SORT)",
             "activities": [
               {
@@ -608,6 +653,7 @@
       "formalPractises": {
         "practises": [
           {
+            "id": "practise/character_strength",
             "title": "Character Strengths",
             "activities": [
               {
@@ -618,6 +664,7 @@
                     "content": "<p>The main practices for this week are meditations on character strengths. Below is a list of meditations on some of the character strengths. Do try each of them atleast once, alternating them with the awareness of breath or body scan practices.</p>"
                   },
                   {
+                    "id": "audio/cs_perseverance",
                     "template": "audio_template",
                     "title": "Perseverance",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_84f0b8df11384f56b7453e654a7a541f.mp3"
@@ -628,6 +675,7 @@
                 "title": "Character Strength (Spirituality)",
                 "templates": [
                   {
+                    "id": "audio/cs_spirituality",
                     "template": "audio_template",
                     "title": "Spirituality",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_15cfe56eada049a29bde963a01e39ed5.mp3"
@@ -638,6 +686,7 @@
                 "title": "Character Strength (Love of Learning)",
                 "templates": [
                   {
+                    "id": "audio/cs_love_of_learning",
                     "template": "audio_template",
                     "title": "Love of Learning",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_6801e26003d646af8a901134a800066a.mp3"
@@ -647,6 +696,7 @@
             ]
           },
           {
+            "id": "practise/body_scan",
             "title": "Body Scan",
             "activities": [
               {
@@ -657,6 +707,7 @@
                     "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.<br><br>Try alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/bs_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
@@ -666,6 +717,7 @@
             ]
           },
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -676,6 +728,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -686,6 +739,7 @@
                 "title": "Awareness of Breath (20 min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -699,6 +753,7 @@
       "informalPractises": {
         "practises": [
           {
+            "id": "practise/self_regulation_reflection",
             "title": "Self-Regulation Reflection",
             "activities": [
               {
@@ -717,6 +772,7 @@
       "journalingPractises": {
         "practises": [
           {
+            "id": "practise/gratitude_practice",
             "title": "Gratitude (10 positive points)",
             "activities": [
               {
@@ -739,6 +795,7 @@
       "formalPractises": {
         "practises": [
           {
+            "id": "practise/loving_kindness",
             "title": "Loving Kindness Meditation",
             "activities": [
               {
@@ -749,6 +806,7 @@
                     "content": "<p>The formal practices for this week will be based on the character strengths of love and kindness.</p><br><br><p>Loving-kindness is the wish that all beings (you and others) may be happy and good things may come their way. Loving-kindness is a way to increase compassion.</p><br><br><p>The loving-kindness meditation is a form of single-focus meditation. Just as the breath is used as a focal point in the seated meditation, the sentences in the loving-kindness meditation are the focus of our attention. Each and every time our mind starts wandering, we take notice of this and gently return to the sentences. Please practice this in alteration to the body scan and AOB practice!</p>"
                   },
                   {
+                    "id": "audio/loving_kindness_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_afebbc559db746bca2fef24d0335129e.mp3"
@@ -758,6 +816,7 @@
             ]
           },
           {
+            "id": "practise/body_scan",
             "title": "Body Scan",
             "activities": [
               {
@@ -768,6 +827,7 @@
                     "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.<br><br>Try alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/bs_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
@@ -777,6 +837,7 @@
             ]
           },
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -787,6 +848,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -797,6 +859,7 @@
                 "title": "Awareness of Breath (20 min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -810,6 +873,7 @@
       "informalPractises": {
         "practises": [
           {
+            "id": "practise/conscious_listening",
             "title": "Conscious Listening Practice",
             "activities": [
               {
@@ -828,6 +892,7 @@
       "journalingPractises": {
         "practises": [
           {
+            "id": "practise/character_strength",
             "title": "Character Strengths Practice",
             "activities": [
               {
@@ -852,6 +917,7 @@
         "firstFoldCollapsed": true,
         "practises": [
           {
+            "id": "practise/awareness_of_breath",
             "title": "Awareness of Breath",
             "activities": [
               {
@@ -862,6 +928,7 @@
                     "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>While the main practice is the 10-minute guided version, it is strongly recommended that you try the 20-minute version at-least once. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/aob_10_min",
                     "template": "audio_template",
                     "title": "10-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
@@ -872,6 +939,7 @@
                 "title": "Awareness of Breath (20 min)",
                 "templates": [
                   {
+                    "id": "audio/aob_20_min",
                     "template": "audio_template",
                     "title": "20-Minute Guided Meditation",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_e49bdb86a8fb45e49ccaf74060801457.mp3"
@@ -881,6 +949,7 @@
             ]
           },
           {
+            "id": "practise/body_scan",
             "title": "Body Scan",
             "activities": [
               {
@@ -891,6 +960,7 @@
                     "content": "The formal practice for this week will be the body scan (alternating it with the practice of awareness of breath). The body scan, as the name suggests, entails bringing awareness to each part of the body.<br><br>Try alternating this with the awareness of breath practice for each day of the week. Once done, you can record your experience."
                   },
                   {
+                    "id": "audio/bs_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_0d6467b3888e4143aaf778c0c28cbd9b.mp3"
@@ -900,6 +970,7 @@
             ]
           },
           {
+            "id": "practise/mindful_movement",
             "title": "Mindful Movement (Yoga)",
             "activities": [
               {
@@ -914,6 +985,7 @@
             ]
           },
           {
+            "id": "practise/choiceless_awareness",
             "title": "Choiceless Awareness",
             "activities": [
               {
@@ -924,6 +996,7 @@
                     "content": "<p>This week's formal practice expands from the realm of the outer world (body and the breath) to bringing our awareness to the inner world where we observe our thoughts & feelings by finding distance from them to be able to observe them non-judgmentally.</p><br><br><p>It's a practice that can gradually help us change our relationship with thoughts by making them appear as choices one can mindfully pick from rather than compulsions one has to mindlessly react to. Do this practice atleast 2 times alternating it with any of the other practices given below.</p><br><br><p>Once done you can record your experience below:</p>"
                   },
                   {
+                    "id": "audio/choiceless_awareness_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_bbca0b1519c341d68b41f254b4607d99.mp3"
@@ -933,6 +1006,7 @@
             ]
           },
           {
+            "id": "practise/character_strength",
             "title": "Character Strengths",
             "activities": [
               {
@@ -943,6 +1017,7 @@
                     "content": "<p>The main practices for this week are meditations on character strengths. Below is a list of meditations on some of the character strengths. Do try each of them atleast once, alternating them with the awareness of breath or body scan practices.</p>"
                   },
                   {
+                    "id": "audio/cs_perseverance",
                     "template": "audio_template",
                     "title": "Perseverance",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_84f0b8df11384f56b7453e654a7a541f.mp3"
@@ -953,6 +1028,7 @@
                 "title": "Character Strength (Spirituality)",
                 "templates": [
                   {
+                    "id": "audio/cs_spirituality",
                     "template": "audio_template",
                     "title": "Spirituality",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_15cfe56eada049a29bde963a01e39ed5.mp3"
@@ -963,6 +1039,7 @@
                 "title": "Character Strength (Love of Learning)",
                 "templates": [
                   {
+                    "id": "audio/cs_love_of_learning",
                     "template": "audio_template",
                     "title": "Love of Learning",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_6801e26003d646af8a901134a800066a.mp3"
@@ -972,6 +1049,7 @@
             ]
           },
           {
+            "id": "practise/loving_kindness",
             "title": "Loving Kindness Meditation",
             "activities": [
               {
@@ -982,6 +1060,7 @@
                     "content": "<p>The formal practices for this week will be based on the character strengths of love and kindness.</p><br><br><p>Loving-kindness is the wish that all beings (you and others) may be happy and good things may come their way. Loving-kindness is a way to increase compassion.</p><br><br><p>The loving-kindness meditation is a form of single-focus meditation. Just as the breath is used as a focal point in the seated meditation, the sentences in the loving-kindness meditation are the focus of our attention. Each and every time our mind starts wandering, we take notice of this and gently return to the sentences. Please practice this in alteration to the body scan and AOB practice!</p>"
                   },
                   {
+                    "id": "audio/loving_kindness_25_min",
                     "template": "audio_template",
                     "title": "25-Minute Guided",
                     "audioUrl": "https://static.wixstatic.com/mp3/fd404a_afebbc559db746bca2fef24d0335129e.mp3"
@@ -997,6 +1076,7 @@
         "description": "The informal practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice or practices you like….",
         "practises": [
           {
+            "id": "practise/mindful_eating",
             "title": "Mindful Eating",
             "activities": [
               {
@@ -1011,6 +1091,7 @@
             ]
           },
           {
+            "id": "practise/mindfulness_everyday_life",
             "title": "Mindfulness in Everyday Life",
             "activities": [
               {
@@ -1025,6 +1106,7 @@
             ]
           },
           {
+            "id": "practise/mindfulness_space",
             "title": "Mindfulness Space",
             "activities": [
               {
@@ -1039,6 +1121,7 @@
             ]
           },
           {
+            "id": "practise/self_regulation_reflection",
             "title": "Self-Regulation Reflection",
             "activities": [
               {
@@ -1053,6 +1136,7 @@
             ]
           },
           {
+            "id": "practise/conscious_listening",
             "title": "Conscious Listening Practice",
             "activities": [
               {
@@ -1067,6 +1151,7 @@
             ]
           },
           {
+            "id": "practise/character_strength",
             "title": "Character Strengths Practice",
             "activities": [
               {
@@ -1087,6 +1172,7 @@
         "description": "The journaling practices for this week are open for your choosing. As we come to the close of the program, it’s important to build a routine of practices that you like. So for this week, pick any practice or practices you like….",
         "practises": [
           {
+            "id": "practise/reducing_multitasking",
             "title": "Reducing Multi-tasking",
             "activities": [
               {
@@ -1101,6 +1187,7 @@
             ]
           },
           {
+            "id": "practise/observing_self",
             "title": "Observing Mind-Wandering",
             "activities": [
               {
@@ -1115,6 +1202,7 @@
             ]
           },
           {
+            "id": "practise/unproductive_thinking",
             "title": "Unproductive Thinking Patterns",
             "activities": [
               {
@@ -1129,6 +1217,7 @@
             ]
           },
           {
+            "id": "practise/cognitive_reappraisal",
             "title": "Cognitive Reappraisal (SORT)",
             "activities": [
               {
@@ -1143,6 +1232,7 @@
             ]
           },
           {
+            "id": "practise/gratitude_practice",
             "title": "Gratitude (10 positive points)",
             "activities": [
               {
@@ -1157,6 +1247,7 @@
             ]
           },
           {
+            "id": "practise/character_strength",
             "title": "Character Strengths Practice",
             "activities": [
               {
