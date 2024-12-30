@@ -367,7 +367,7 @@
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>Record today’s experience of this practice through the link below"
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>Record today’s experience of this practice through the option below"
                   },
                   {
                     "id": "audio/aob_10_min",
@@ -447,7 +447,7 @@
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>Record today’s experience of this practice through the link below."
+                    "content": "Awareness of breath is the most basic Mindfulness practice. All you have to do is to close your eyes and focus on the breath as it comes and goes. Given below are 2 separate versions of the audio.<br><br>Record today’s experience of this practice through the option below."
                   },
                   {
                     "id": "audio/aob_10_min",
@@ -900,7 +900,7 @@
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>The journaling practice will be chosen by the participant for the character strength they wish to. Try to practice at least 5 days each week.</p><br><br><p>While there are many ways that each character strength can be practiced, <a href='https://drive.google.com/file/d/1jU9hdfb2cRjV9hPAz_Gin18Mr3DYSYFx/view'>this link</a> provides a list of indicative ways that can be used to journal individual character strengths. You can record your experience through the link below. Apart from ways to journal, the link also provides several informal ways through which character strengths can be practiced.<br><br>Record today’s experience of this practice through the option below.</p>"
+                    "content": "<p>The journaling practice will be chosen by the participant for the character strength they wish to. Try to practice at least 5 days each week.</p><br><br><p>While there are many ways that each character strength can be practiced, <a href='https://drive.google.com/file/d/1jU9hdfb2cRjV9hPAz_Gin18Mr3DYSYFx/view'>this link</a> provides a list of indicative ways that can be used to journal individual character strengths. You can record your experience through the option below. Apart from ways to journal, the link also provides several informal ways through which character strengths can be practiced.<br><br>Record today’s experience of this practice through the option below.</p>"
                   }
                 ]
               }
@@ -1057,7 +1057,7 @@
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>Loving-kindness is the wish that all beings (you and others) may be happy and good things may come their way. Loving-kindness is a way to increase compassion.<br><br>The loving-kindness meditation is a form of single-focus meditation. Just as the breath is used as a focal point in the seated meditation, the sentences in the loving-kindness meditation are the focus of our attention. Each and every time our mind starts wandering, we take notice of this and gently return to the sentences.<br><br>Record today’s experience of this practice through the link below.</p>"
+                    "content": "<p>Loving-kindness is the wish that all beings (you and others) may be happy and good things may come their way. Loving-kindness is a way to increase compassion.<br><br>The loving-kindness meditation is a form of single-focus meditation. Just as the breath is used as a focal point in the seated meditation, the sentences in the loving-kindness meditation are the focus of our attention. Each and every time our mind starts wandering, we take notice of this and gently return to the sentences.<br><br>Record today’s experience of this practice through the option below.</p>"
                   },
                   {
                     "id": "audio/loving_kindness_25_min",
@@ -1255,7 +1255,7 @@
                 "templates": [
                   {
                     "template": "text_template",
-                    "content": "<p>The journaling practice will be chosen by the participant for the character strength they wish to.<br><br>While there are many ways that each character strength can be practiced, this link provides a list of indicative ways that can be used to journal individual character strengths. You can record your experience through the link below.<br><br>Record today’s experience of this practice using the option below.</p>"
+                    "content": "<p>The journaling practice will be chosen by the participant for the character strength they wish to.<br><br>While there are many ways that each character strength can be practiced, this link provides a list of indicative ways that can be used to journal individual character strengths. You can record your experience through the option below.<br><br>Record today’s experience of this practice using the option below.</p>"
                   }
                 ]
               }
