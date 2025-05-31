@@ -1388,7 +1388,7 @@
                     "templates": [
                       {
                         "template": "text_template",
-                        "content": "Awareness of Breath is the most basic Happiness practice. All you have to do is to close your eyes and focus on your breathing as it comes and goes. While you can do this without an audio, for the next 21 days it is recommended you use the audio guidance.\nBelow are 2 audios – 1 in Hindi and another in English. Use the one that feels most comfortable."
+                        "content": "Awareness of Breath is the most basic Happiness practice. All you have to do is to close your eyes and focus on your breathing as it comes and goes.<br><br>While you can do this without an audio, for the next 21 days it is recommended you use the audio guidance.<br><br>Below are 2 audios – 1 in Hindi and another in English. Use the one that feels most comfortable."
                       },
                       {
                         "id": "audio/aob_10_min_hindi",
@@ -1420,7 +1420,7 @@
                     "templates": [
                       {
                         "template": "text_template",
-                        "content": "<p>For these 21 days, try to eat the 1st bite of each meal mindfully. Chewing mindfully and observing the taste. If you feel engaged, please feel free to extend this activity to more bites.\nAt the end of the day, feel free to record your experience. This may include any new discoveries about tastes, how you felt about the food or anything else you realized about the food or eating process.</p>"
+                        "content": "<p>For these 21 days, try to eat the 1st bite of each meal mindfully. Chewing mindfully and observing the taste.<br><br>If you feel engaged, please feel free to extend this activity to more bites.<br><br>At the end of the day, feel free to record your experience. This may include any new discoveries about tastes, how you felt about the food or anything else you realized about the food or eating process.</p>"
                       }
                     ]
                   }
@@ -1440,7 +1440,7 @@
                     "templates": [
                       {
                         "template": "text_template",
-                        "content": "<p>As you close your eyes and look back at your day what are 10 moments of pleasantness that stood out for you?\nThese moments need not be “special”. A cup of tea when you were tired, a conversation that went well or even a bite of food that tasted nice – all are valid.\nIf you’re doing this in the morning, you may recall the events of yesterday. If you’re doing this towards the end of the day, you may recall the events of today.</p>"
+                        "content": "<p>As you close your eyes and look back at your day what are 10 moments of pleasantness that stood out for you?<br><br>These moments need not be “special”. A cup of tea when you were tired, a conversation that went well or even a bite of food that tasted nice – all are valid.<br><br>If you’re doing this in the morning, you may recall the events of yesterday. If you’re doing this towards the end of the day, you may recall the events of today.</p>"
                       }
                     ]
                   }
