@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": "8_week_course",
-      "name": "8-Week Course",
+      "name": "8-Week Happiness Lifestyle",
       "duration": {
         "weeks": 8,
         "totalDuration": "8 weeks"
@@ -1369,7 +1369,7 @@
     },
     {
       "id": "21_day_course",
-      "name": "21-Day Program",
+      "name": "21-Day Happiness Habits",
       "duration": {
         "weeks": 3,
         "totalDuration": "21 Days"
@@ -1378,32 +1378,33 @@
         {
           "week": 1,
           "formalPractises": {
-            "navigationTitle": "Meditation",
+            "navigationTitle": "Breath Awareness",
             "practises": [
               {
                 "id": "practise/awareness_of_breath",
-                "title": "Meditation",
+                "title": "Breath Awareness (10 mins)",
                 "activities": [
                   {
                     "title": "Awareness of Breath (10 Min)",
                     "templates": [
                       {
                         "template": "text_template",
-                        "content": "Awareness of Breath is the most basic Happiness practice. All you have to do is to close your eyes and focus on your breathing as it comes and goes.<br><br>While you can do this without an audio, for the next 21 days it is recommended you use the audio guidance.<br><br>Below are 2 audios – 1 in Hindi and another in English. Use the one that feels most comfortable."
+                        "content": "Breath Awareness is one of the most basic Happiness practices. All you have to do is to close your eyes and focus on your breathing. Sounds easy? Wait until you try it!<br><br>Our minds are so attuned to wandering that within a couple of minutes, participants usually realize how fickle the mind is.<br><br>Unfortunately, uncontrolled wanderings can often drag us down spirals of negativity. Which is why we train the mind by practicing keeping it steady on the breath.<br><br>Below are 2 guided breath awareness audios (Hindi and English) to do just that. <b>For 21 days do either one atleast once.</b><br><br>As you do this, it is possible some queries emerge. Here’s a <a href='https://drive.google.com/file/d/1HXA0Z58k6edewRbdv5LubdH_MhlvE_Sl/view'>FAQ document</a> that will have all that you need."
                       },
                       {
                         "id": "audio/aob_10_min_hindi",
                         "template": "audio_template",
                         "title": "10-Minute Guided Meditation (Hindi)",
-                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_fc711670ec0542db9e8519c3230f8df6.mp3"
+                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
                       },
                       {
                         "id": "audio/aob_10_min_english",
                         "template": "audio_template",
                         "title": "10-Minute Guided Meditation (English)",
-                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_4059b6ab26164d07af880c4d5157dd1c.mp3"
+                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
                       }
-                    ]
+                    ],
+                    "allowRecord": false
                   }
                 ]
               }
@@ -1414,16 +1415,17 @@
             "practises": [
               {
                 "id": "practise/mindful_eating",
-                "title": "Mindful Eating",
+                "title": "Mindful Eating (2 min - 3 meals)",
                 "activities": [
                   {
                     "title": "Mindful Eating",
                     "templates": [
                       {
                         "template": "text_template",
-                        "content": "<p>For these 21 days, try to eat the 1st bite of each meal mindfully. Chewing mindfully and observing the taste.<br><br>If you feel engaged, please feel free to extend this activity to more bites.<br><br>At the end of the day, feel free to record your experience. This may include any new discoveries about tastes, how you felt about the food or anything else you realized about the food or eating process.</p>"
+                        "content": "<p>Grandmas often used to say \"Nobody will talk while eating\" or that \"You should chew your food 32 times\". Why?<br><br>While part of her was doing it so that food is assimilated well in your body, it wasn’t just about the body but also the mind.<br><br>For her, eating was more than just filling the stomach. Like Breath Awareness, It was another way of practicing being attentive, present and in kind control of the mind.<br><br>When you eat mindfully, you will notice how many times your attention is drawn away into thoughts or other distractors.<br><br>And then, just like with the breath, the idea is to gently direct attention back to the experience of eating.<br><br><b>For 21 days, try to eat the 1st bite of each meal mindfully.</b> Chewing mindfully 32 times and curiously observing the taste.</p>"
                       }
-                    ]
+                    ],
+                    "allowRecord": false
                   }
                 ]
               }
@@ -1434,14 +1436,14 @@
             "practises": [
               {
                 "id": "practise/positive_points",
-                "title": "Positive Points",
+                "title": "Positive Points (5 min)",
                 "activities": [
                   {
                     "title": "Positive Points",
                     "templates": [
                       {
                         "template": "text_template",
-                        "content": "<p>As you close your eyes and look back at your day what are 10 moments of pleasantness that stood out for you?<br><br>These moments need not be “special”. A cup of tea when you were tired, a conversation that went well or even a bite of food that tasted nice – all are valid.<br><br>If you’re doing this in the morning, you may recall the events of yesterday. If you’re doing this towards the end of the day, you may recall the events of today.</p>"
+                        "content": "<p>Does the mind wander more towards criticisms we’ve received or appreciations we’ve earned? If you are like most people, the negatives far outweigh the positives.<br><br>Fortunately, we can reverse this negativity bias of the mind by consciously doing this simple exercise of positive recall.<br><br>Close your eyes and look back at your day. What are 10 moments of pleasantness that stood out for you? These moments need not be \"special\". A cup of tea when you were tired, a conversation that went well or even a bite of food that tasted nice – all are valid.<br><br><b>For 21 days, try this each day.</b><br><br>If you’re doing this in the morning, you may journal the events of yesterday. If you’re doing this towards the end of the day, you may recall the events of today. ☺</p>"
                       }
                     ]
                   }
