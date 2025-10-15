@@ -1395,13 +1395,13 @@
                         "id": "audio/aob_10_min_hindi",
                         "template": "audio_template",
                         "title": "10-Minute Guided Meditation (Hindi)",
-                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_fc711670ec0542db9e8519c3230f8df6.mp3"
                       },
                       {
                         "id": "audio/aob_10_min_english",
                         "template": "audio_template",
                         "title": "10-Minute Guided Meditation (English)",
-                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+                        "audioUrl": "https://static.wixstatic.com/mp3/fd404a_4059b6ab26164d07af880c4d5157dd1c.mp3"
                       }
                     ],
                     "allowRecord": false
@@ -1436,7 +1436,7 @@
             "practises": [
               {
                 "id": "practise/positive_points",
-                "title": "10 Positive Points",
+                "title": "10 Positive Points (5 min)",
                 "activities": [
                   {
                     "title": "Positive Points",
