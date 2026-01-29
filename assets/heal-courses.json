@@ -1454,5 +1454,57 @@
         }
       ]
     }
-  ]
+  ],
+  "mindful_moments": {
+    "heading": "Mindful Moments",
+    "subtext": "2-minute meditations to bring peace and clarity to your day",
+    "moments": [
+      {
+        "type": "audio",
+        "title": "Morning Calm",
+        "subtitle": "Start your day with peaceful breathing",
+        "duration": "2:00",
+        "image": "https://images.pexels.com/photos/459198/pexels-photo-459198.jpeg",
+        "color": "#A5D6A7",
+        "icon": "sunDim",
+        "source": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+      },
+      {
+        "type": "audio",
+        "title": "Stress Release",
+        "subtitle": "Let go of tension and worry",
+        "duration": "3:00",
+        "image": "",
+        "color": "#81D4FA",
+        "icon": "waves",
+        "source": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+      },
+      {
+        "type": "video",
+        "title": "Sleep Well",
+        "subtitle": "Drift off to sleep with ease",
+        "duration": "3:00",
+        "image": "",
+        "color": "#CE93D8",
+        "icon": "moon",
+        "source": "https://www.pexels.com/download/video/34940468/"
+      },
+      {
+        "type": "youtube",
+        "title": "Nature Sounds",
+        "subtitle": "Relaxing sounds of nature",
+        "duration": "10:00",
+        "image": "",
+        "color": "#FFAB91",
+        "icon": "brain",
+        "source": "https://www.youtube.com/watch?v=ROUOUQ10ysM"
+      },
+      {
+        "type": "quote",
+        "title": "Daily Inspiration",
+        "subtitle": "In stillness, we find our truest strength. A moment of calm can change everything.",
+        "color": "#F3E5D8"
+      }
+    ]
+  }
 }
