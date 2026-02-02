@@ -1463,11 +1463,11 @@
         "type": "audio",
         "title": "Morning Calm",
         "subtitle": "Start your day with peaceful breathing",
-        "duration": "2:00",
-        "image": "https://images.pexels.com/photos/459198/pexels-photo-459198.jpeg",
+        "duration": "4:00",
+        "image": "",
         "color": "#A5D6A7",
         "icon": "sunDim",
-        "source": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/reduce_stress_4_min.mpeg"
       },
       {
         "type": "audio",
