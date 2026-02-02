@@ -1456,48 +1456,48 @@
     }
   ],
   "mindful_moments": {
-    "heading": "Mindful Moments",
-    "subtext": "2-minute meditations to bring peace and clarity to your day",
+    "heading": "Short Meditations",
+    "subtext": "Meditations to bring peace and clarity to your day",
     "moments": [
       {
         "type": "audio",
-        "title": "Morning Calm",
-        "subtitle": "Start your day with peaceful breathing",
+        "title": "Reduce Stress",
+        "subtitle": "Find calm and release daily tension",
         "duration": "4:00",
         "image": "",
         "color": "#A5D6A7",
-        "icon": "sunDim",
+        "icon": "flowerLotus",
         "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/reduce_stress_4_min.mpeg"
       },
       {
         "type": "audio",
-        "title": "Stress Release",
-        "subtitle": "Let go of tension and worry",
-        "duration": "3:00",
+        "title": "Reset Emotion",
+        "subtitle": "Restore balance and clarity to your feelings",
+        "duration": "5:00",
         "image": "",
         "color": "#81D4FA",
-        "icon": "waves",
-        "source": "https://static.wixstatic.com/mp3/fd404a_8752e201381c4b13838ce1d29ed43971.mp3"
+        "icon": "yinYang",
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/reset_emotion_5_min.mpeg"
       },
       {
-        "type": "video",
-        "title": "Sleep Well",
-        "subtitle": "Drift off to sleep with ease",
-        "duration": "3:00",
+        "type": "audio",
+        "title": "Build Focus",
+        "subtitle": "Sharpen your concentration and awareness",
+        "duration": "6:00",
         "image": "",
         "color": "#CE93D8",
-        "icon": "moon",
-        "source": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+        "icon": "brain",
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/build_focus_6_min.mpeg"
       },
       {
-        "type": "youtube",
-        "title": "Nature Sounds",
-        "subtitle": "Relaxing sounds of nature",
-        "duration": "10:00",
+        "type": "audio",
+        "title": "Induce Sleep",
+        "subtitle": "Drift off into a deep, restful slumber",
+        "duration": "9:00",
         "image": "",
         "color": "#FFAB91",
-        "icon": "brain",
-        "source": "https://www.youtube.com/watch?v=ROUOUQ10ysM"
+        "icon": "moonStars",
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/induce_sleep_9_min.mpeg"
       },
       {
         "type": "quote",
