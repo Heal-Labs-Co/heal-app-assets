@@ -1467,7 +1467,7 @@
         "image": "",
         "color": "#A5D6A7",
         "icon": "flowerLotus",
-        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/reduce_stress_4_min.mpeg"
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/reduce_stress_4_min.mp3"
       },
       {
         "type": "audio",
@@ -1477,7 +1477,7 @@
         "image": "",
         "color": "#81D4FA",
         "icon": "yinYang",
-        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/reset_emotion_5_min.mpeg"
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/reset_emotions_5_min.mp3"
       },
       {
         "type": "audio",
@@ -1487,7 +1487,7 @@
         "image": "",
         "color": "#CE93D8",
         "icon": "brain",
-        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/build_focus_6_min.mpeg"
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/build_focus_6_min.mp3"
       },
       {
         "type": "audio",
@@ -1497,7 +1497,7 @@
         "image": "",
         "color": "#FFAB91",
         "icon": "moonStars",
-        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/induce_sleep_9_min.mpeg"
+        "source": "https://github.com/Heal-Labs-Co/heal-app-assets/raw/refs/heads/main/assets/meditations/induce_sleep_9_min.mp3"
       },
       {
         "type": "quote",
